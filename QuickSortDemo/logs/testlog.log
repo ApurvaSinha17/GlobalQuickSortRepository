@@ -403,3 +403,123 @@
 2014-11-28 00:27:43,903 - InsertionSort - INFO - 15
 2014-11-28 00:27:43,903 - InsertionSort - INFO - 16
 2014-11-28 00:27:43,903 - MainClass - INFO - After quick sort
+2014-11-28 00:57:30,183 - Shuffle - INFO - Shuffled Array
+2014-11-28 00:57:30,187 - Shuffle - INFO - 7
+2014-11-28 00:57:30,187 - Shuffle - INFO - 14
+2014-11-28 00:57:30,187 - Shuffle - INFO - 13
+2014-11-28 00:57:30,189 - Shuffle - INFO - 8
+2014-11-28 00:57:30,189 - Shuffle - INFO - 6
+2014-11-28 00:57:30,189 - Shuffle - INFO - 16
+2014-11-28 00:57:30,189 - Shuffle - INFO - 3
+2014-11-28 00:57:30,190 - Shuffle - INFO - 15
+2014-11-28 00:57:30,190 - Shuffle - INFO - 4
+2014-11-28 00:57:30,190 - Shuffle - INFO - 5
+2014-11-28 00:57:30,190 - Shuffle - INFO - 10
+2014-11-28 00:57:30,190 - Shuffle - INFO - 12
+2014-11-28 00:57:30,190 - Shuffle - INFO - 9
+2014-11-28 00:57:30,190 - Shuffle - INFO - 1
+2014-11-28 00:57:30,190 - Shuffle - INFO - 11
+2014-11-28 00:57:30,192 - Shuffle - INFO - 2
+2014-11-28 00:57:30,193 - QuickSort - TRACE - Partition index is 6
+2014-11-28 00:57:30,193 - SelectionSort - TRACE - Partition Index for Selection Sort: 6
+2014-11-28 00:57:30,194 - QuickSort - TRACE - Partition index is 2
+2014-11-28 00:57:30,194 - SelectionSort - TRACE - Partition Index for Selection Sort: 2
+2014-11-28 00:57:30,194 - QuickSort - TRACE - Partition index is 4
+2014-11-28 00:57:30,194 - SelectionSort - TRACE - Partition Index for Selection Sort: 4
+2014-11-28 00:57:46,213 - Shuffle - INFO - Shuffled Array
+2014-11-28 00:57:46,216 - Shuffle - INFO - 16
+2014-11-28 00:57:46,216 - Shuffle - INFO - 1
+2014-11-28 00:57:46,216 - Shuffle - INFO - 9
+2014-11-28 00:57:46,219 - Shuffle - INFO - 15
+2014-11-28 00:57:46,219 - Shuffle - INFO - 10
+2014-11-28 00:57:46,219 - Shuffle - INFO - 7
+2014-11-28 00:57:46,220 - Shuffle - INFO - 8
+2014-11-28 00:57:46,220 - Shuffle - INFO - 14
+2014-11-28 00:57:46,220 - Shuffle - INFO - 4
+2014-11-28 00:57:46,220 - Shuffle - INFO - 13
+2014-11-28 00:57:46,220 - Shuffle - INFO - 11
+2014-11-28 00:57:46,221 - Shuffle - INFO - 6
+2014-11-28 00:57:46,221 - Shuffle - INFO - 12
+2014-11-28 00:57:46,221 - Shuffle - INFO - 3
+2014-11-28 00:57:46,221 - Shuffle - INFO - 2
+2014-11-28 00:57:46,222 - Shuffle - INFO - 5
+2014-11-28 00:57:46,224 - QuickSort - TRACE - Partition index is 15
+2014-11-28 00:57:46,224 - SelectionSort - TRACE - Partition Index for Selection Sort: 15
+2014-11-28 00:57:46,224 - QuickSort - TRACE - Partition index is 4
+2014-11-28 00:57:46,224 - SelectionSort - TRACE - Partition Index for Selection Sort: 4
+2014-11-28 00:57:46,224 - QuickSort - TRACE - Partition index is 3
+2014-11-28 00:57:46,224 - SelectionSort - TRACE - Partition Index for Selection Sort: 3
+2014-11-28 00:57:46,225 - QuickSort - TRACE - Partition index is 2
+2014-11-28 00:57:46,225 - SelectionSort - TRACE - Partition Index for Selection Sort: 2
+2014-11-28 00:57:46,225 - QuickSort - TRACE - Partition index is 1
+2014-11-28 00:57:46,225 - SelectionSort - TRACE - Partition Index for Selection Sort: 1
+2014-11-28 00:57:56,306 - Shuffle - INFO - Shuffled Array
+2014-11-28 00:57:56,309 - Shuffle - INFO - 10
+2014-11-28 00:57:56,309 - Shuffle - INFO - 6
+2014-11-28 00:57:56,309 - Shuffle - INFO - 2
+2014-11-28 00:57:56,311 - Shuffle - INFO - 8
+2014-11-28 00:57:56,311 - Shuffle - INFO - 11
+2014-11-28 00:57:56,312 - Shuffle - INFO - 14
+2014-11-28 00:57:56,312 - Shuffle - INFO - 5
+2014-11-28 00:57:56,312 - Shuffle - INFO - 16
+2014-11-28 00:57:56,312 - Shuffle - INFO - 3
+2014-11-28 00:57:56,312 - Shuffle - INFO - 15
+2014-11-28 00:57:56,312 - Shuffle - INFO - 9
+2014-11-28 00:57:56,312 - Shuffle - INFO - 12
+2014-11-28 00:57:56,313 - Shuffle - INFO - 1
+2014-11-28 00:57:56,313 - Shuffle - INFO - 4
+2014-11-28 00:57:56,313 - Shuffle - INFO - 7
+2014-11-28 00:57:56,314 - Shuffle - INFO - 13
+2014-11-28 00:57:56,316 - QuickSort - TRACE - Partition index is 9
+2014-11-28 00:57:56,316 - SelectionSort - TRACE - Partition Index for Selection Sort: 9
+2014-11-28 00:57:56,316 - QuickSort - TRACE - Partition index is 14
+2014-11-28 00:57:56,316 - SelectionSort - TRACE - Partition Index for Selection Sort: 14
+2014-11-28 01:02:08,438 - Shuffle - INFO - Shuffled Array
+2014-11-28 01:02:08,440 - Shuffle - INFO - 4
+2014-11-28 01:02:08,440 - Shuffle - INFO - 2
+2014-11-28 01:02:08,441 - Shuffle - INFO - 8
+2014-11-28 01:02:08,442 - Shuffle - INFO - 14
+2014-11-28 01:02:08,442 - Shuffle - INFO - 15
+2014-11-28 01:02:08,442 - Shuffle - INFO - 3
+2014-11-28 01:02:08,443 - Shuffle - INFO - 7
+2014-11-28 01:02:08,443 - Shuffle - INFO - 13
+2014-11-28 01:02:08,443 - Shuffle - INFO - 1
+2014-11-28 01:02:08,443 - Shuffle - INFO - 12
+2014-11-28 01:02:08,443 - Shuffle - INFO - 9
+2014-11-28 01:02:08,443 - Shuffle - INFO - 11
+2014-11-28 01:02:08,443 - Shuffle - INFO - 6
+2014-11-28 01:02:08,443 - Shuffle - INFO - 10
+2014-11-28 01:02:08,443 - Shuffle - INFO - 5
+2014-11-28 01:02:08,445 - Shuffle - INFO - 16
+2014-11-28 01:02:08,446 - QuickSort - TRACE - Partition index is 3
+2014-11-28 01:02:08,446 - SelectionSort - TRACE - Partition Index for Selection Sort: 3
+2014-11-28 01:02:08,446 - QuickSort - TRACE - Partition index is 14
+2014-11-28 01:02:08,446 - SelectionSort - TRACE - Partition Index for Selection Sort: 14
+2014-11-28 01:02:20,798 - MainClass - ERROR - Input value should be integer
+2014-11-28 01:02:55,929 - MainClass - ERROR - Input value should be integer
+2014-11-28 01:03:15,489 - MainClass - ERROR - Input value should be integer
+2014-11-28 01:03:47,641 - Shuffle - INFO - Shuffled Array
+2014-11-28 01:03:47,644 - Shuffle - INFO - 9
+2014-11-28 01:03:47,644 - Shuffle - INFO - 10
+2014-11-28 01:03:47,644 - Shuffle - INFO - 6
+2014-11-28 01:03:47,646 - Shuffle - INFO - 16
+2014-11-28 01:03:47,646 - Shuffle - INFO - 12
+2014-11-28 01:03:47,646 - Shuffle - INFO - 3
+2014-11-28 01:03:47,646 - Shuffle - INFO - 1
+2014-11-28 01:03:47,646 - Shuffle - INFO - 5
+2014-11-28 01:03:47,646 - Shuffle - INFO - 14
+2014-11-28 01:03:47,646 - Shuffle - INFO - 8
+2014-11-28 01:03:47,646 - Shuffle - INFO - 15
+2014-11-28 01:03:47,647 - Shuffle - INFO - 13
+2014-11-28 01:03:47,647 - Shuffle - INFO - 4
+2014-11-28 01:03:47,647 - Shuffle - INFO - 11
+2014-11-28 01:03:47,647 - Shuffle - INFO - 2
+2014-11-28 01:03:47,649 - Shuffle - INFO - 7
+2014-11-28 01:03:47,650 - QuickSort - TRACE - Partition index is 8
+2014-11-28 01:03:47,650 - SelectionSort - TRACE - Partition Index for Selection Sort: 8
+2014-11-28 01:03:47,650 - QuickSort - TRACE - Partition index is 13
+2014-11-28 01:03:47,650 - SelectionSort - TRACE - Partition Index for Selection Sort: 13
+2014-11-28 01:03:47,650 - QuickSort - TRACE - Partition index is 10
+2014-11-28 01:03:47,650 - SelectionSort - TRACE - Partition Index for Selection Sort: 10
+2014-11-28 01:03:47,651 - QuickSort - TRACE - Partition index is 12
+2014-11-28 01:03:47,651 - SelectionSort - TRACE - Partition Index for Selection Sort: 12

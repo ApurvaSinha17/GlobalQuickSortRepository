@@ -31,7 +31,7 @@ public class QuickSort {
 		sort(a,k+1,hi);
 	}
 	
-	private static int partition(int[] a,int lo,int hi){
+	static int partition(int[] a,int lo,int hi){
 		
 		int i = lo, j = hi+1;
 		
