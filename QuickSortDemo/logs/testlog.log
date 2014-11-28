@@ -523,3 +523,57 @@
 2014-11-28 01:03:47,650 - SelectionSort - TRACE - Partition Index for Selection Sort: 10
 2014-11-28 01:03:47,651 - QuickSort - TRACE - Partition index is 12
 2014-11-28 01:03:47,651 - SelectionSort - TRACE - Partition Index for Selection Sort: 12
+2014-11-28 11:28:34,607 - Shuffle - INFO - Shuffled Array
+2014-11-28 11:28:34,653 - Shuffle - INFO - 4
+2014-11-28 11:28:34,654 - Shuffle - INFO - 8
+2014-11-28 11:28:34,654 - Shuffle - INFO - 2
+2014-11-28 11:28:34,658 - Shuffle - INFO - 13
+2014-11-28 11:28:34,659 - Shuffle - INFO - 16
+2014-11-28 11:28:34,659 - Shuffle - INFO - 8
+2014-11-28 11:28:34,659 - Shuffle - INFO - 11
+2014-11-28 11:28:34,659 - Shuffle - INFO - 5
+2014-11-28 11:28:34,660 - Shuffle - INFO - 4
+2014-11-28 11:28:34,660 - Shuffle - INFO - 12
+2014-11-28 11:28:34,660 - Shuffle - INFO - 8
+2014-11-28 11:28:34,660 - Shuffle - INFO - 5
+2014-11-28 11:28:34,661 - Shuffle - INFO - 11
+2014-11-28 11:28:34,661 - Shuffle - INFO - 4
+2014-11-28 11:28:34,661 - Shuffle - INFO - 9
+2014-11-28 11:28:34,666 - Shuffle - INFO - 11
+2014-11-28 11:28:34,666 - MainClass - INFO - After 3-way quick sort
+2014-11-28 11:33:35,651 - Shuffle - INFO - Shuffled Array
+2014-11-28 11:33:35,655 - Shuffle - INFO - 8
+2014-11-28 11:33:35,655 - Shuffle - INFO - 12
+2014-11-28 11:33:35,655 - Shuffle - INFO - 11
+2014-11-28 11:33:35,658 - Shuffle - INFO - 5
+2014-11-28 11:33:35,658 - Shuffle - INFO - 13
+2014-11-28 11:33:35,658 - Shuffle - INFO - 4
+2014-11-28 11:33:35,658 - Shuffle - INFO - 5
+2014-11-28 11:33:35,658 - Shuffle - INFO - 9
+2014-11-28 11:33:35,658 - Shuffle - INFO - 4
+2014-11-28 11:33:35,658 - Shuffle - INFO - 2
+2014-11-28 11:33:35,659 - Shuffle - INFO - 4
+2014-11-28 11:33:35,659 - Shuffle - INFO - 11
+2014-11-28 11:33:35,659 - Shuffle - INFO - 11
+2014-11-28 11:33:35,659 - Shuffle - INFO - 16
+2014-11-28 11:33:35,659 - Shuffle - INFO - 8
+2014-11-28 11:33:35,661 - Shuffle - INFO - 8
+2014-11-28 11:33:35,661 - MainClass - INFO - After 3-way quick sort
+2014-11-28 11:39:27,150 - Shuffle - INFO - Shuffled Array
+2014-11-28 11:39:27,153 - Shuffle - INFO - 11
+2014-11-28 11:39:27,154 - Shuffle - INFO - 11
+2014-11-28 11:39:27,154 - Shuffle - INFO - 16
+2014-11-28 11:39:27,156 - Shuffle - INFO - 2
+2014-11-28 11:39:27,156 - Shuffle - INFO - 4
+2014-11-28 11:39:27,156 - Shuffle - INFO - 9
+2014-11-28 11:39:27,156 - Shuffle - INFO - 8
+2014-11-28 11:39:27,156 - Shuffle - INFO - 5
+2014-11-28 11:39:27,156 - Shuffle - INFO - 5
+2014-11-28 11:39:27,156 - Shuffle - INFO - 8
+2014-11-28 11:39:27,157 - Shuffle - INFO - 4
+2014-11-28 11:39:27,157 - Shuffle - INFO - 11
+2014-11-28 11:39:27,157 - Shuffle - INFO - 8
+2014-11-28 11:39:27,157 - Shuffle - INFO - 13
+2014-11-28 11:39:27,157 - Shuffle - INFO - 4
+2014-11-28 11:39:27,159 - Shuffle - INFO - 12
+2014-11-28 11:39:27,159 - MainClass - INFO - After 3-way quick sort
