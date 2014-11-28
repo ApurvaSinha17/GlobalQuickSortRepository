@@ -9,7 +9,9 @@ public class MainClass {
 	public static void main(String[] args) {
 		
 		int[] a = {5,3,4,10,2,1,13,11,7,9,6,8,16,12,14,15};
+		
 		String index = args[0];
+		
 		if(index!=null){
 			int k = -1;
 			try {
