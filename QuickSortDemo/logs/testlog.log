@@ -1,0 +1,359 @@
+2014-11-15 16:05:24,870 - Shuffle - INFO - Shuffled Array
+2014-11-15 16:05:24,873 - Shuffle - INFO - 15
+2014-11-15 16:05:24,873 - Shuffle - INFO - 11
+2014-11-15 16:05:24,873 - Shuffle - INFO - 13
+2014-11-15 16:05:24,875 - Shuffle - INFO - 6
+2014-11-15 16:05:24,875 - Shuffle - INFO - 7
+2014-11-15 16:05:24,875 - Shuffle - INFO - 12
+2014-11-15 16:05:24,875 - Shuffle - INFO - 16
+2014-11-15 16:05:24,875 - Shuffle - INFO - 4
+2014-11-15 16:05:24,875 - Shuffle - INFO - 14
+2014-11-15 16:05:24,875 - Shuffle - INFO - 5
+2014-11-15 16:05:24,875 - Shuffle - INFO - 2
+2014-11-15 16:05:24,876 - Shuffle - INFO - 9
+2014-11-15 16:05:24,876 - Shuffle - INFO - 8
+2014-11-15 16:05:24,876 - Shuffle - INFO - 3
+2014-11-15 16:05:24,876 - Shuffle - INFO - 1
+2014-11-15 16:05:24,877 - Shuffle - INFO - 10
+2014-11-15 16:05:24,878 - QuickSort - TRACE - Partition index is 14
+2014-11-15 16:05:24,878 - QuickSort - TRACE - Partition index is 0
+2014-11-15 16:05:24,878 - QuickSort - INFO - Insertion Sort between indices 0 and -1
+2014-11-15 16:05:24,879 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:05:24,879 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:05:24,879 - QuickSort - TRACE - Partition index is 10
+2014-11-15 16:05:24,879 - QuickSort - TRACE - Partition index is 1
+2014-11-15 16:05:24,879 - QuickSort - INFO - Insertion Sort between indices 1 and 0
+2014-11-15 16:05:24,879 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:05:24,879 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:05:24,879 - QuickSort - TRACE - Partition index is 2
+2014-11-15 16:05:24,879 - QuickSort - INFO - Insertion Sort between indices 2 and 1
+2014-11-15 16:05:24,880 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:05:24,880 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:05:24,880 - QuickSort - INFO - Insertion Sort between indices 3 and 9
+2014-11-15 16:05:24,880 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:05:24,880 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:05:24,880 - InsertionSort - INFO - 4
+2014-11-15 16:05:24,880 - InsertionSort - INFO - 5
+2014-11-15 16:05:24,880 - InsertionSort - INFO - 6
+2014-11-15 16:05:24,880 - InsertionSort - INFO - 7
+2014-11-15 16:05:24,880 - InsertionSort - INFO - 8
+2014-11-15 16:05:24,881 - InsertionSort - INFO - 9
+2014-11-15 16:05:24,881 - InsertionSort - INFO - 10
+2014-11-15 16:05:24,881 - QuickSort - INFO - Insertion Sort between indices 11 and 13
+2014-11-15 16:05:24,881 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:05:24,881 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:05:24,881 - InsertionSort - INFO - 12
+2014-11-15 16:05:24,881 - InsertionSort - INFO - 13
+2014-11-15 16:05:24,881 - InsertionSort - INFO - 14
+2014-11-15 16:05:24,881 - QuickSort - INFO - Insertion Sort between indices 15 and 15
+2014-11-15 16:05:24,881 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:05:24,881 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:05:24,882 - InsertionSort - INFO - 16
+2014-11-15 16:05:24,882 - MainClass - INFO - After quick sort
+2014-11-15 16:20:44,240 - Shuffle - INFO - Shuffled Array
+2014-11-15 16:20:44,240 - Shuffle - INFO - 8
+2014-11-15 16:20:44,240 - Shuffle - INFO - 6
+2014-11-15 16:20:44,240 - Shuffle - INFO - 15
+2014-11-15 16:20:44,240 - Shuffle - INFO - 7
+2014-11-15 16:20:44,240 - Shuffle - INFO - 9
+2014-11-15 16:20:44,240 - Shuffle - INFO - 10
+2014-11-15 16:20:44,240 - Shuffle - INFO - 14
+2014-11-15 16:20:44,255 - Shuffle - INFO - 12
+2014-11-15 16:20:44,255 - Shuffle - INFO - 4
+2014-11-15 16:20:44,255 - Shuffle - INFO - 16
+2014-11-15 16:20:44,255 - Shuffle - INFO - 3
+2014-11-15 16:20:44,255 - Shuffle - INFO - 2
+2014-11-15 16:20:44,255 - Shuffle - INFO - 11
+2014-11-15 16:20:44,255 - Shuffle - INFO - 13
+2014-11-15 16:20:44,255 - Shuffle - INFO - 1
+2014-11-15 16:20:44,255 - Shuffle - INFO - 5
+2014-11-15 16:20:44,255 - QuickSort - TRACE - Partition index is 7
+2014-11-15 16:20:44,255 - QuickSort - INFO - Insertion Sort between indices 0 and 6
+2014-11-15 16:20:44,255 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:20:44,255 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:20:44,255 - InsertionSort - INFO - 1
+2014-11-15 16:20:44,255 - InsertionSort - INFO - 2
+2014-11-15 16:20:44,255 - InsertionSort - INFO - 3
+2014-11-15 16:20:44,255 - InsertionSort - INFO - 4
+2014-11-15 16:20:44,255 - InsertionSort - INFO - 5
+2014-11-15 16:20:44,255 - InsertionSort - INFO - 6
+2014-11-15 16:20:44,255 - InsertionSort - INFO - 7
+2014-11-15 16:20:44,255 - QuickSort - TRACE - Partition index is 11
+2014-11-15 16:20:44,255 - QuickSort - INFO - Insertion Sort between indices 8 and 10
+2014-11-15 16:20:44,255 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:20:44,255 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:20:44,255 - InsertionSort - INFO - 9
+2014-11-15 16:20:44,255 - InsertionSort - INFO - 10
+2014-11-15 16:20:44,255 - InsertionSort - INFO - 11
+2014-11-15 16:20:44,255 - QuickSort - INFO - Insertion Sort between indices 12 and 15
+2014-11-15 16:20:44,255 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:20:44,255 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:20:44,255 - InsertionSort - INFO - 13
+2014-11-15 16:20:44,255 - InsertionSort - INFO - 14
+2014-11-15 16:20:44,255 - InsertionSort - INFO - 15
+2014-11-15 16:20:44,255 - InsertionSort - INFO - 16
+2014-11-15 16:21:17,839 - Shuffle - INFO - Shuffled Array
+2014-11-15 16:21:17,855 - Shuffle - INFO - 14
+2014-11-15 16:21:17,855 - Shuffle - INFO - 8
+2014-11-15 16:21:17,855 - Shuffle - INFO - 16
+2014-11-15 16:21:17,855 - Shuffle - INFO - 5
+2014-11-15 16:21:17,855 - Shuffle - INFO - 10
+2014-11-15 16:21:17,855 - Shuffle - INFO - 3
+2014-11-15 16:21:17,855 - Shuffle - INFO - 11
+2014-11-15 16:21:17,855 - Shuffle - INFO - 15
+2014-11-15 16:21:17,855 - Shuffle - INFO - 4
+2014-11-15 16:21:17,855 - Shuffle - INFO - 12
+2014-11-15 16:21:17,855 - Shuffle - INFO - 13
+2014-11-15 16:21:17,855 - Shuffle - INFO - 2
+2014-11-15 16:21:17,855 - Shuffle - INFO - 9
+2014-11-15 16:21:17,855 - Shuffle - INFO - 9
+2014-11-15 16:21:17,855 - Shuffle - INFO - 6
+2014-11-15 16:21:17,855 - Shuffle - INFO - 7
+2014-11-15 16:21:17,855 - QuickSort - TRACE - Partition index is 13
+2014-11-15 16:21:17,855 - QuickSort - TRACE - Partition index is 8
+2014-11-15 16:21:17,855 - QuickSort - TRACE - Partition index is 2
+2014-11-15 16:21:17,855 - QuickSort - INFO - Insertion Sort between indices 0 and 1
+2014-11-15 16:21:17,855 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:21:17,855 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:21:17,855 - InsertionSort - INFO - 2
+2014-11-15 16:21:17,855 - InsertionSort - INFO - 3
+2014-11-15 16:21:17,855 - QuickSort - INFO - Insertion Sort between indices 3 and 7
+2014-11-15 16:21:17,855 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:21:17,855 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:21:17,855 - InsertionSort - INFO - 5
+2014-11-15 16:21:17,855 - InsertionSort - INFO - 6
+2014-11-15 16:21:17,855 - InsertionSort - INFO - 7
+2014-11-15 16:21:17,855 - InsertionSort - INFO - 8
+2014-11-15 16:21:17,855 - InsertionSort - INFO - 9
+2014-11-15 16:21:17,855 - QuickSort - INFO - Insertion Sort between indices 9 and 12
+2014-11-15 16:21:17,855 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:21:17,855 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:21:17,855 - InsertionSort - INFO - 10
+2014-11-15 16:21:17,855 - InsertionSort - INFO - 11
+2014-11-15 16:21:17,855 - InsertionSort - INFO - 12
+2014-11-15 16:21:17,855 - InsertionSort - INFO - 13
+2014-11-15 16:21:17,855 - QuickSort - INFO - Insertion Sort between indices 14 and 15
+2014-11-15 16:21:17,855 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:21:17,855 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:21:17,855 - InsertionSort - INFO - 15
+2014-11-15 16:21:17,855 - InsertionSort - INFO - 16
+2014-11-15 16:21:31,310 - Shuffle - INFO - Shuffled Array
+2014-11-15 16:21:31,310 - Shuffle - INFO - 9
+2014-11-15 16:21:31,310 - Shuffle - INFO - 4
+2014-11-15 16:21:31,310 - Shuffle - INFO - 10
+2014-11-15 16:21:31,310 - Shuffle - INFO - 5
+2014-11-15 16:21:31,310 - Shuffle - INFO - 15
+2014-11-15 16:21:31,310 - Shuffle - INFO - 14
+2014-11-15 16:21:31,310 - Shuffle - INFO - 11
+2014-11-15 16:21:31,310 - Shuffle - INFO - 2
+2014-11-15 16:21:31,310 - Shuffle - INFO - 8
+2014-11-15 16:21:31,310 - Shuffle - INFO - 13
+2014-11-15 16:21:31,310 - Shuffle - INFO - 16
+2014-11-15 16:21:31,310 - Shuffle - INFO - 9
+2014-11-15 16:21:31,310 - Shuffle - INFO - 7
+2014-11-15 16:21:31,310 - Shuffle - INFO - 3
+2014-11-15 16:21:31,310 - Shuffle - INFO - 6
+2014-11-15 16:21:31,310 - Shuffle - INFO - 12
+2014-11-15 16:21:31,310 - QuickSort - TRACE - Partition index is 8
+2014-11-15 16:21:31,310 - QuickSort - TRACE - Partition index is 6
+2014-11-15 16:21:31,310 - QuickSort - INFO - Insertion Sort between indices 0 and 5
+2014-11-15 16:21:31,326 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:21:31,326 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:21:31,326 - InsertionSort - INFO - 2
+2014-11-15 16:21:31,326 - InsertionSort - INFO - 3
+2014-11-15 16:21:31,326 - InsertionSort - INFO - 4
+2014-11-15 16:21:31,326 - InsertionSort - INFO - 5
+2014-11-15 16:21:31,326 - InsertionSort - INFO - 6
+2014-11-15 16:21:31,326 - InsertionSort - INFO - 7
+2014-11-15 16:21:31,326 - QuickSort - INFO - Insertion Sort between indices 7 and 7
+2014-11-15 16:21:31,326 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:21:31,326 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:21:31,326 - InsertionSort - INFO - 9
+2014-11-15 16:21:31,326 - QuickSort - INFO - Insertion Sort between indices 9 and 15
+2014-11-15 16:21:31,326 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:21:31,326 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:21:31,326 - InsertionSort - INFO - 10
+2014-11-15 16:21:31,326 - InsertionSort - INFO - 11
+2014-11-15 16:21:31,326 - InsertionSort - INFO - 12
+2014-11-15 16:21:31,326 - InsertionSort - INFO - 13
+2014-11-15 16:21:31,326 - InsertionSort - INFO - 14
+2014-11-15 16:21:31,326 - InsertionSort - INFO - 15
+2014-11-15 16:21:31,326 - InsertionSort - INFO - 16
+2014-11-15 16:24:28,772 - Shuffle - INFO - Shuffled Array
+2014-11-15 16:24:28,772 - Shuffle - INFO - 12
+2014-11-15 16:24:28,772 - Shuffle - INFO - 6
+2014-11-15 16:24:28,772 - Shuffle - INFO - 4
+2014-11-15 16:24:28,772 - Shuffle - INFO - 9
+2014-11-15 16:24:28,772 - Shuffle - INFO - 10
+2014-11-15 16:24:28,772 - Shuffle - INFO - 8
+2014-11-15 16:24:28,772 - Shuffle - INFO - 16
+2014-11-15 16:24:28,772 - Shuffle - INFO - 1
+2014-11-15 16:24:28,772 - Shuffle - INFO - 14
+2014-11-15 16:24:28,772 - Shuffle - INFO - 2
+2014-11-15 16:24:28,772 - Shuffle - INFO - 5
+2014-11-15 16:24:28,772 - Shuffle - INFO - 7
+2014-11-15 16:24:28,772 - Shuffle - INFO - 11
+2014-11-15 16:24:28,772 - Shuffle - INFO - 15
+2014-11-15 16:24:28,772 - Shuffle - INFO - 13
+2014-11-15 16:24:28,772 - Shuffle - INFO - 3
+2014-11-15 16:24:28,772 - QuickSort - TRACE - Partition index is 11
+2014-11-15 16:24:28,772 - QuickSort - TRACE - Partition index is 6
+2014-11-15 16:24:28,772 - QuickSort - INFO - Insertion Sort between indices 0 and 5
+2014-11-15 16:24:28,772 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:24:28,772 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:24:28,772 - InsertionSort - INFO - 1
+2014-11-15 16:24:28,772 - InsertionSort - INFO - 2
+2014-11-15 16:24:28,772 - InsertionSort - INFO - 3
+2014-11-15 16:24:28,772 - InsertionSort - INFO - 4
+2014-11-15 16:24:28,772 - InsertionSort - INFO - 5
+2014-11-15 16:24:28,772 - InsertionSort - INFO - 6
+2014-11-15 16:24:28,772 - QuickSort - INFO - Insertion Sort between indices 7 and 10
+2014-11-15 16:24:28,772 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:24:28,772 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:24:28,772 - InsertionSort - INFO - 8
+2014-11-15 16:24:28,772 - InsertionSort - INFO - 9
+2014-11-15 16:24:28,772 - InsertionSort - INFO - 10
+2014-11-15 16:24:28,772 - InsertionSort - INFO - 11
+2014-11-15 16:24:28,772 - QuickSort - INFO - Insertion Sort between indices 12 and 15
+2014-11-15 16:24:28,772 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:24:28,772 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:24:28,772 - InsertionSort - INFO - 13
+2014-11-15 16:24:28,772 - InsertionSort - INFO - 14
+2014-11-15 16:24:28,772 - InsertionSort - INFO - 15
+2014-11-15 16:24:28,772 - InsertionSort - INFO - 16
+2014-11-15 16:24:42,136 - Shuffle - INFO - Shuffled Array
+2014-11-15 16:24:42,152 - Shuffle - INFO - 10
+2014-11-15 16:24:42,152 - Shuffle - INFO - 8
+2014-11-15 16:24:42,152 - Shuffle - INFO - 9
+2014-11-15 16:24:42,152 - Shuffle - INFO - 13
+2014-11-15 16:24:42,152 - Shuffle - INFO - 11
+2014-11-15 16:24:42,152 - Shuffle - INFO - 2
+2014-11-15 16:24:42,152 - Shuffle - INFO - 4
+2014-11-15 16:24:42,152 - Shuffle - INFO - 3
+2014-11-15 16:24:42,152 - Shuffle - INFO - 14
+2014-11-15 16:24:42,152 - Shuffle - INFO - 15
+2014-11-15 16:24:42,152 - Shuffle - INFO - 16
+2014-11-15 16:24:42,152 - Shuffle - INFO - 5
+2014-11-15 16:24:42,152 - Shuffle - INFO - 12
+2014-11-15 16:24:42,152 - Shuffle - INFO - 1
+2014-11-15 16:24:42,152 - Shuffle - INFO - 7
+2014-11-15 16:24:42,152 - Shuffle - INFO - 6
+2014-11-15 16:24:42,152 - QuickSort - TRACE - Partition index is 9
+2014-11-15 16:24:42,152 - QuickSort - TRACE - Partition index is 4
+2014-11-15 16:24:42,152 - QuickSort - INFO - Insertion Sort between indices 0 and 3
+2014-11-15 16:24:42,152 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:24:42,152 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:24:42,152 - InsertionSort - INFO - 1
+2014-11-15 16:24:42,152 - InsertionSort - INFO - 2
+2014-11-15 16:24:42,152 - InsertionSort - INFO - 3
+2014-11-15 16:24:42,152 - InsertionSort - INFO - 4
+2014-11-15 16:24:42,152 - QuickSort - INFO - Insertion Sort between indices 5 and 8
+2014-11-15 16:24:42,152 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:24:42,152 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:24:42,152 - InsertionSort - INFO - 6
+2014-11-15 16:24:42,152 - InsertionSort - INFO - 7
+2014-11-15 16:24:42,152 - InsertionSort - INFO - 8
+2014-11-15 16:24:42,152 - InsertionSort - INFO - 9
+2014-11-15 16:24:42,152 - QuickSort - INFO - Insertion Sort between indices 10 and 15
+2014-11-15 16:24:42,152 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:24:42,152 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:24:42,152 - InsertionSort - INFO - 11
+2014-11-15 16:24:42,152 - InsertionSort - INFO - 12
+2014-11-15 16:24:42,152 - InsertionSort - INFO - 13
+2014-11-15 16:24:42,152 - InsertionSort - INFO - 14
+2014-11-15 16:24:42,152 - InsertionSort - INFO - 15
+2014-11-15 16:24:42,152 - InsertionSort - INFO - 16
+2014-11-15 16:25:14,603 - Shuffle - INFO - Shuffled Array
+2014-11-15 16:25:14,603 - Shuffle - INFO - 2
+2014-11-15 16:25:14,603 - Shuffle - INFO - 4
+2014-11-15 16:25:14,603 - Shuffle - INFO - 13
+2014-11-15 16:25:14,603 - Shuffle - INFO - 9
+2014-11-15 16:25:14,603 - Shuffle - INFO - 14
+2014-11-15 16:25:14,603 - Shuffle - INFO - 15
+2014-11-15 16:25:14,603 - Shuffle - INFO - 5
+2014-11-15 16:25:14,603 - Shuffle - INFO - 11
+2014-11-15 16:25:14,603 - Shuffle - INFO - 8
+2014-11-15 16:25:14,603 - Shuffle - INFO - 16
+2014-11-15 16:25:14,603 - Shuffle - INFO - 6
+2014-11-15 16:25:14,603 - Shuffle - INFO - 1
+2014-11-15 16:25:14,603 - Shuffle - INFO - 12
+2014-11-15 16:25:14,603 - Shuffle - INFO - 10
+2014-11-15 16:25:14,603 - Shuffle - INFO - 7
+2014-11-15 16:25:14,619 - Shuffle - INFO - 3
+2014-11-15 16:25:14,619 - QuickSort - TRACE - Partition index is 1
+2014-11-15 16:25:14,619 - QuickSort - INFO - Insertion Sort between indices 0 and 0
+2014-11-15 16:25:14,619 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:25:14,619 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:25:14,619 - InsertionSort - INFO - 1
+2014-11-15 16:25:14,619 - QuickSort - TRACE - Partition index is 12
+2014-11-15 16:25:14,619 - QuickSort - TRACE - Partition index is 11
+2014-11-15 16:25:14,619 - QuickSort - TRACE - Partition index is 3
+2014-11-15 16:25:14,619 - QuickSort - INFO - Insertion Sort between indices 2 and 2
+2014-11-15 16:25:14,619 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:25:14,619 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:25:14,619 - InsertionSort - INFO - 3
+2014-11-15 16:25:14,619 - QuickSort - INFO - Insertion Sort between indices 4 and 10
+2014-11-15 16:25:14,619 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:25:14,619 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:25:14,619 - InsertionSort - INFO - 5
+2014-11-15 16:25:14,619 - InsertionSort - INFO - 6
+2014-11-15 16:25:14,619 - InsertionSort - INFO - 7
+2014-11-15 16:25:14,619 - InsertionSort - INFO - 8
+2014-11-15 16:25:14,619 - InsertionSort - INFO - 9
+2014-11-15 16:25:14,619 - InsertionSort - INFO - 10
+2014-11-15 16:25:14,619 - InsertionSort - INFO - 11
+2014-11-15 16:25:14,619 - QuickSort - INFO - Insertion Sort between indices 12 and 11
+2014-11-15 16:25:14,619 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:25:14,619 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:25:14,619 - QuickSort - INFO - Insertion Sort between indices 13 and 15
+2014-11-15 16:25:14,619 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:25:14,619 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:25:14,619 - InsertionSort - INFO - 14
+2014-11-15 16:25:14,619 - InsertionSort - INFO - 15
+2014-11-15 16:25:14,619 - InsertionSort - INFO - 16
+2014-11-15 16:26:02,411 - Shuffle - INFO - Shuffled Array
+2014-11-15 16:26:02,411 - Shuffle - INFO - 1
+2014-11-15 16:26:02,411 - Shuffle - INFO - 16
+2014-11-15 16:26:02,411 - Shuffle - INFO - 10
+2014-11-15 16:26:02,427 - Shuffle - INFO - 7
+2014-11-15 16:26:02,427 - Shuffle - INFO - 13
+2014-11-15 16:26:02,427 - Shuffle - INFO - 4
+2014-11-15 16:26:02,427 - Shuffle - INFO - 14
+2014-11-15 16:26:02,427 - Shuffle - INFO - 6
+2014-11-15 16:26:02,427 - Shuffle - INFO - 2
+2014-11-15 16:26:02,427 - Shuffle - INFO - 8
+2014-11-15 16:26:02,427 - Shuffle - INFO - 3
+2014-11-15 16:26:02,427 - Shuffle - INFO - 12
+2014-11-15 16:26:02,427 - Shuffle - INFO - 5
+2014-11-15 16:26:02,427 - Shuffle - INFO - 11
+2014-11-15 16:26:02,427 - Shuffle - INFO - 15
+2014-11-15 16:26:02,427 - Shuffle - INFO - 9
+2014-11-15 16:26:02,427 - QuickSort - TRACE - Partition index is 0
+2014-11-15 16:26:02,427 - QuickSort - INFO - Insertion Sort between indices 0 and -1
+2014-11-15 16:26:02,427 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:26:02,427 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:26:02,427 - QuickSort - TRACE - Partition index is 15
+2014-11-15 16:26:02,427 - QuickSort - TRACE - Partition index is 8
+2014-11-15 16:26:02,427 - QuickSort - INFO - Insertion Sort between indices 1 and 7
+2014-11-15 16:26:02,427 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:26:02,427 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:26:02,427 - InsertionSort - INFO - 2
+2014-11-15 16:26:02,427 - InsertionSort - INFO - 3
+2014-11-15 16:26:02,427 - InsertionSort - INFO - 4
+2014-11-15 16:26:02,427 - InsertionSort - INFO - 5
+2014-11-15 16:26:02,427 - InsertionSort - INFO - 6
+2014-11-15 16:26:02,427 - InsertionSort - INFO - 7
+2014-11-15 16:26:02,427 - InsertionSort - INFO - 8
+2014-11-15 16:26:02,427 - QuickSort - INFO - Insertion Sort between indices 9 and 14
+2014-11-15 16:26:02,427 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:26:02,427 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:26:02,427 - InsertionSort - INFO - 10
+2014-11-15 16:26:02,427 - InsertionSort - INFO - 11
+2014-11-15 16:26:02,427 - InsertionSort - INFO - 12
+2014-11-15 16:26:02,427 - InsertionSort - INFO - 13
+2014-11-15 16:26:02,427 - InsertionSort - INFO - 14
+2014-11-15 16:26:02,427 - InsertionSort - INFO - 15
+2014-11-15 16:26:02,427 - QuickSort - INFO - Insertion Sort between indices 16 and 15
+2014-11-15 16:26:02,427 - InsertionSort - TRACE - In insertion sort
+2014-11-15 16:26:02,427 - InsertionSort - TRACE - Sorted sub-array
+2014-11-15 16:26:02,427 - MainClass - INFO - After quick sort
